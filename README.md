@@ -14,7 +14,7 @@ More generic sister project of https://github.com/PotatoKingTheVII/aesencryption
  3. Printing of best key/plaintext mid bruteforce
 
 **Speed:**
-Pritorised robustness/?generic-ness? above speed, so expect 1 million / second on 5 threads of a 3770k for reference.
+Prioritised robustness/?generic-ness? above speed, so expect 1 million / second on 5 threads of a 3770k for reference.
 
 
 
