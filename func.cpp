@@ -151,7 +151,7 @@ int AES_decrypt(struct AES_params_struct AES_params)
 //For entropy
 float log2a(float number)
 {
-    return log(number) / 0.30102999566; // ( / log(2) to change log base)
+    return log(number) / 0.69314718056; // ( / ln(2) to change log base)
 }
 
 //Return entropy of string input
